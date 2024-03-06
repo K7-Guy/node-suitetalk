@@ -1,5 +1,5 @@
 # node-suitetalk
-NodeJS Suitetalk wrapper
+NodeJS Suitetalk wrapper - fork
 
 ## Install
 
